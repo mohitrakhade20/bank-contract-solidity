@@ -35,5 +35,4 @@ contract SmartBankAccount {
         totalContractBalance += msg.value;
     }
 
-    
 }
